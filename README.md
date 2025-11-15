@@ -4,4 +4,4 @@
 
 欢迎您访问我的网站，网站在github上运行，可能有些卡顿，敬请谅解。
 
-![](https://github.com/yiding336/myweb/blob/main/OIP-C.webp)
+![OIP-C](https://youke1.picui.cn/s1/2025/11/15/691845a5dfa80.jpg)
